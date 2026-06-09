@@ -42,15 +42,17 @@ This repository documents my journey learning:
 
 ### Python
 - Coming soon
+
+## Learning Log
+
+I will regularly upload notes, exercises, and projects as I progress.
+
 ## Repository Structure
 
+```text
 data-analytics-journey
 │
 ├── SQL
-├── Power BI
+├── PowerBI
 ├── Python
 └── Notes
-## Learning Log
-
-
-I will regularly upload notes, exercises, and projects as I progress.
