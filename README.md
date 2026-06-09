@@ -44,7 +44,6 @@ This repository documents my journey learning:
 - Coming soon
 ## Repository Structure
 
-```text
 data-analytics-journey
 │
 ├── SQL
@@ -52,5 +51,6 @@ data-analytics-journey
 ├── Python
 └── Notes
 ## Learning Log
+
 
 I will regularly upload notes, exercises, and projects as I progress.
