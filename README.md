@@ -15,6 +15,22 @@ This repository documents my journey learning:
 - Complete hands-on projects
 - Share progress publicly
 - Prepare for internships and freelance opportunities
+## Progress Tracker
+
+### SQL
+- [ ] SQLBolt Lessons 1-4
+- [ ] SQLBolt Lessons 5-8
+- [ ] SQL Mini Project
+
+### Power BI
+- [ ] Sales Dashboard
+- [ ] DAX Fundamentals
+- [ ] Dashboard Portfolio Project
+
+### Python
+- [ ] Python Basics
+- [ ] Pandas
+- [ ] Data Analysis Project
 
 ## Projects
 
